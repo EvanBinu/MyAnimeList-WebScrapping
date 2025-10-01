@@ -48,11 +48,10 @@ git clone https://github.com/<your-username>/anime-ranking-scraper.git
 # Navigate into the project
 cd anime-ranking-scraper
 
-# Install dependencies
-pip install -r requirements.txt
+
 
 # Run the scraper
-python main.py
+python myanimelist.ipynb
 ```
 
 ---
